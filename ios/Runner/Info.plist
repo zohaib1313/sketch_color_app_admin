@@ -7,6 +7,16 @@
 	<key>CFBundleDisplayName</key>
 	<string>Sketch Color App</string>
 	<key>CFBundleExecutable</key>
+	<key>NSPhotoLibraryUsageDescription</key>
+		<string>To upload images to firebase</string>
+
+			<key>NSCameraUsageDescription</key>
+        		<string>To upload images to firebase</string>
+
+<key>NSCameraUsageDescription</key>
+        		<string>To upload images to firebase</string>
+
+
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
 	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
